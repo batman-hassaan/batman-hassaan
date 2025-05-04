@@ -1,69 +1,105 @@
-# 👑 Hassaan Shahid | Aspiring Data Scientist & Full-Stack Developer  
+# Hassaan Shahid  
+#### *Data Visualization Expert | Building Intelligent Applications | AI/ML Practitioner |  MERN Stack Developer*
 
-## 💫 About Me  
-🔹 Passionate about **data science, machine learning, and full-stack development**  
-🔹 Currently sharpening my skills in **JavaScript, Node.js, and advanced AI algorithms**  
-🔹 Love collaborating on **AI-driven projects, web apps, and deep learning solutions**  
-🔹 Dedicated to **building intelligent systems that make an impact**  
+<div align="center">
+  
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-%23F05032?style=flat&logo=git)](https://github.com/batman-hassaan)
+[![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-%23FF6F00?style=flat&logo=tensorflow)](https://github.com/batman-hassaan?tab=repositories&q=ai)
+[![Tech Blogger](https://img.shields.io/badge/Tech-Blogger-%23000000?style=flat&logo=medium)](https://medium.com/@yourusername)
 
-⚡ Fun fact: Besides coding, I’m a **huge fan of cricket 🏏 and football ⚽**!  
-
----
-
-## 🌐 Connect with Me  
-<a href="https://www.facebook.com/share/1Bn2jqF7b1/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://www.instagram.com/hassaan_217/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.linkedin.com/in/hassaanshahid217" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://x.com/hassaan2170" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-</a>  
+</div>
 
 ---
 
-## 💻 Tech Stack  
-
-### **🚀 Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-
-### **🗄️ Databases**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### 📊 Data Science, ML & AI:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-
-### **🎨 Design & Editing**  
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+## 🔥 Current Focus  
+🚀 **Developing AI-Powered Web Applications**  
+- Building full-stack solutions with integrated ML models  
+- Learning LLM integration (GPT, Gemini, Claude)  
+- Exploring computer vision applications  
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Technical Stack  
 
-![](https://github-readme-stats.vercel.app/api?username=batman-hassaan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=batman-hassaan&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=batman-hassaan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### **AI/ML Development**  
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/LangChain-00AC47?logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace">
+</div>
+
+### **Full-Stack Integration**  
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+</div>
+
+### **Data Science & Visualization**
+<div>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat" alt="Tableau">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas">
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=flat" alt="SciPy">
+</div>
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=batman-hassaan&icon=2&color=6)  
+## � AI Project Showcase  
 
-✨ **Let’s innovate and build the future together!** 🚀  
+### **Building Now**  
+🛠️ **Smart Content Generator** - Next.js + GPT-4 integration  
+🛠️ **Visual Search Engine** - CLIP model + React frontend  
+
+
+---
+
+## 📚 Learning Journey  
+- **Deep Learning Specialization** (DeepLearning.AI)  
+- **LLM Application Development** (LangChain courses)  
+- **MLOps Fundamentals**  
+- **AI Ethics & Responsible AI**  
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=From+Models+to+Production;AI+%2B+Web+%3D+Future;Learning+Daily+%F0%9F%93%9A" alt="Typing animation">
+</div>
+
+---
+
+## 🌐 Connect With Me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hassaanshahid217">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/batman-hassaan">
+    <img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Collaborate-%23D44638?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=batman-hassaan&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+| ![Hassaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batman-hassaan&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batman-hassaan&layout=compact&theme=radical&hide_border=true) |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=batman-hassaan&theme=radical&hide_border=true)                                        | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=batman-hassaan&theme=react-dark&hide_border=true)           |
+
+</div>
+
+---
