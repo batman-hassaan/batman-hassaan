@@ -45,7 +45,10 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas">
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat" alt="NumPy">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=flat" alt="SciPy">
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" alt="Oracle">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat" alt="SQL">
 </div>
+
 
 ---
 
