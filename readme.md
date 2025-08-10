@@ -1,5 +1,5 @@
-# Hassaan Shahid  
-#### *Data Visualization Expert | Building Intelligent Applications | AI/ML Practitioner |  MERN Stack Developer*
+# 🚀 Hassaan Shahid  
+#### *Data Visualization Expert | AI/ML Practitioner | MERN Stack Developer | Building Intelligent Applications*
 
 <div align="center">
   
@@ -7,95 +7,91 @@
 [![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-%23FF6F00?style=flat&logo=tensorflow)](https://github.com/batman-hassaan?tab=repositories&q=ai)
 [![Tech Blogger](https://img.shields.io/badge/Tech-Blogger-%23000000?style=flat&logo=medium)](https://medium.com/@yourusername)
 
-</div>
+---
+
+### 🎯 **[🌐 View My Full Portfolio Here](https://hassaan-portfolio-frontend.vercel.app/)**
 
 ---
+
+</div>
 
 ## 🔥 Current Focus  
-🚀 **Developing AI-Powered Web Applications**  
-- Building full-stack solutions with integrated ML models  
-- Learning LLM integration (GPT, Gemini, Claude)  
-- Exploring computer vision applications  
+💡 **Developing AI-Powered Web Applications**  
+- Full-stack solutions with integrated ML models  
+- Large Language Model integration (GPT, Gemini, Claude)  
+- Advanced computer vision applications  
 
 ---
 
-## 🛠️ Technical Stack  
+## 🛠️ Technical Arsenal  
 
-### **AI/ML Development**  
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/LangChain-00AC47?logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace">
-</div>
+### **AI & Machine Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-00AC47?logo=langchain&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)  
 
-### **Full-Stack Integration**  
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-</div>
+### **Full-Stack Development**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 
-### **Data Science & Visualization**
-<div>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat" alt="Tableau">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat" alt="NumPy">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=flat" alt="SciPy">
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" alt="Oracle">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat" alt="SQL">
-</div>
-
+### **Data Science & Visualization**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)  
 
 ---
 
-## � AI Project Showcase  
+## 🎨 Featured Projects  
 
-### **Building Now**  
-🛠️ **Smart Content Generator** - Next.js + GPT-4 integration  
-🛠️ **Visual Search Engine** - CLIP model + React frontend  
-
+🔹 **Smart Content Generator** – Next.js + GPT-4  
+🔹 **Visual Search Engine** – CLIP + React  
 
 ---
 
 ## 📚 Learning Journey  
-- **Deep Learning Specialization** (DeepLearning.AI)  
-- **LLM Application Development** (LangChain courses)  
-- **MLOps Fundamentals**  
-- **AI Ethics & Responsible AI**  
+📘 **Deep Learning Specialization** – DeepLearning.AI  
+⚙ **LLM App Development** – LangChain  
+📊 **MLOps Fundamentals**  
+🛡 **Ethics & Responsible AI**  
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=From+Models+to+Production;AI+%2B+Web+%3D+Future;Learning+Daily+%F0%9F%93%9A" alt="Typing animation">
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=AI+%2B+Web+%3D+Future;From+Models+to+Production;Learning+Every+Day+%F0%9F%93%9A" alt="Typing animation">
 </div>
 
 ---
 
 ## 🌐 Connect With Me  
-
 <div align="center">
   <a href="https://www.linkedin.com/in/hassaanshahid217">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/batman-hassaan">
-    <img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github">
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Collaborate-%23D44638?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Collaborate-%23D44638?style=for-the-badge&logo=gmail">
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=batman-hassaan&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=batman-hassaan&label=Profile+Views&color=blueviolet&style=flat">
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
   
@@ -104,5 +100,3 @@
 | ![GitHub Streak](https://streak-stats.demolab.com?user=batman-hassaan&theme=radical&hide_border=true)                                        | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=batman-hassaan&theme=react-dark&hide_border=true)           |
 
 </div>
-
----
