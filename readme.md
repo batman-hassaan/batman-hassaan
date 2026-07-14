@@ -13,7 +13,7 @@
 
 <hr/>
 
-<!-- ABOUT ME SECTION -->
+
 <table width="100%">
   <tr>
     <td width="100%">
