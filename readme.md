@@ -72,7 +72,7 @@
 
 <hr/>
 
-<!-- EXPERIENCE SECTION -->
+
 <h2 align="center">💼 Professional Experience</h2>
 
 <table width="100%">
