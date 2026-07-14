@@ -30,7 +30,7 @@
       <p align="center">
         🌱 Deep diving into <b>Advanced ML Algorithms</b> &amp; <b>MLOps</b><br/>
         📊 Building end-to-end predictive modeling pipelines<br/>
-        🎯 Seeking <b>Data Science / ML Engineering</b> Internships for 2025
+        🎯 Seeking <b>Data Science / ML Engineering</b> Internships for 2026<br/>
       </p>
     </td>
   </tr>
@@ -72,14 +72,14 @@
 
 <hr/>
 
-
+<!-- EXPERIENCE SECTION -->
 <h2 align="center">💼 Professional Experience</h2>
 
 <table width="100%">
   <tr>
     <td width="100%">
       <h3 align="left">Data Science Intern @ 10Pearls Pakistan</h3>
-      <p align="left"><em>Dec 2024 – Feb 2025 | Karachi, Pakistan</em></p>
+      <p align="left"><em>Dec 2025 – Feb 2026 | Karachi, Pakistan</em></p>
       <ul>
         <li>Built and evaluated ML models across <b>5+ real-world datasets</b> using supervised learning, improving baseline prediction accuracy by <b>~10%</b>.</li>
         <li>Partnered with product &amp; engineering teams to integrate ML-driven insights into <b>3 existing workflows</b>, reducing manual analysis time by <b>~15%</b>.</li>
@@ -90,7 +90,7 @@
   <tr>
     <td width="100%">
       <h3 align="left">Data Analyst &amp; Data Engineer @ NCBC</h3>
-      <p align="left"><em>Jun 2024 – Jul 2024 | Karachi, Pakistan</em></p>
+      <p align="left"><em>Jun 2025 – Jul 2025 | Karachi, Pakistan</em></p>
       <ul>
         <li>Cleaned and processed <b>10,000+ records</b> across 4 datasets using Python (Pandas, NumPy), improving data quality and reducing errors by <b>~20%</b>.</li>
         <li>Conducted EDA to identify trends and anomalies, surfacing <b>5+ key insights</b> that informed business decisions.</li>
@@ -209,3 +209,4 @@
   <img src="https://komarev.com/ghpvc/?username=batman-hassaan&label=Profile%20Views&color=B980F0&style=for-the-badge" alt="Profile Views"/>
   <br/><br/>
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+</div>
