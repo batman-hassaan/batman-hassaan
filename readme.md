@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=4000&pause=1000&color=B980F0&center=true&vCenter=true&width=550&lines=Hey+there!+👋;I'm+Hassaan+Shahid;Data+Scientist+%7C+ML+Engineer" alt="Intro Typing SVG" width="100%"/> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=4000&pause=1000&color=B980F0&center=true&vCenter=true&width=550&lines=Hey+there!+%F0%9F%91%8B;I'm+Hassaan+Shahid;Data+Scientist+%7C+ML+Engineer" alt="Intro Typing SVG" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=96F2B7&center=true&vCenter=true&width=450&lines=Transforming+Data+into+Decisions;Building+End-to-End+ML+Pipelines;CS+Undergrad+@+NED+University" alt="Subtitle Typing SVG" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=96F2B7&center=true&vCenter=true&width=450&lines=Transforming+Data+into+Decisions;Building+End-to-End+ML+Pipelines;CS+Undergrad+%40+NED+University" alt="Subtitle Typing SVG" width="100%"/>
   
   <br/>
   
@@ -13,66 +13,72 @@
 
 <hr/>
 
-
 <table width="100%">
   <tr>
-    <td width="100%">
-      <h3 align="center">🚀 About Me</h3>
+    <td width="60%">
+      <h3>🚀 About Me</h3>
       <blockquote>
-        <p align="center">
+        <p>
           I'm a Data Science undergraduate at <b>NED University</b> with hands-on experience building, evaluating, and deploying machine learning models. I specialize in the full ML lifecycle — from Exploratory Data Analysis (EDA) and feature engineering to model training and deployment.
           <br/><br/>
           During my internships at <b>10Pearls</b> and <b>NCBC</b>, I built risk-tiered classification systems, engineered data pipelines processing 10,000+ records, and deployed Power BI dashboards that cut manual reporting time by 25%. I'm passionate about applying statistical modeling and ML to solve real-world business problems.
         </p>
       </blockquote>
       
-      <h3 align="center">⚡ Currently</h3>
-      <p align="center">
-        🌱 Deep diving into <b>Advanced ML Algorithms</b> &amp; <b>MLOps</b><br/>
-        📊 Building end-to-end predictive modeling pipelines<br/>
-        🎯 Seeking <b>Data Science / ML Engineering</b> Internships for 2026<br/>
-      </p>
+      <h3>⚡ Currently</h3>
+      <ul>
+        <li>🌱 Deep diving into <b>Advanced ML Algorithms</b> &amp; <b>MLOps</b></li>
+        <li>📊 Building end-to-end predictive modeling pipelines</li>
+        <li>🎯 Seeking <b>Data Science / ML Engineering</b> Internships for 2026</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=batman-hassaan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
+      <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=batman-hassaan&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
 
 <hr/>
 
-<!-- TECH STACK SECTION -->
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
 <div align="center">
   <h3>👨‍💻 Programming Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   
   <br/><br/>
   
   <h3>🧠 Machine Learning &amp; Data Science</h3>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-229922?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-1152A3?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-229922?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-1152A3?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   
   <br/><br/>
   
   <h3>🌐 Web, Backend &amp; BI Tools</h3>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4169E1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </div>
 
 <hr/>
 
-<!-- EXPERIENCE SECTION -->
 <h2 align="center">💼 Professional Experience</h2>
 
 <table width="100%">
@@ -102,59 +108,55 @@
 
 <hr/>
 
-<!-- PROJECTS SECTION -->
 <h2 align="center">🏆 Featured Projects</h2>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🏦 Loan Approval System</h3>
-        <p align="center"><em>Hybrid Machine Learning Model</em></p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-          <img src="https://img.shields.io/badge/XGBoost-229922?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
-        </p>
-        <ul>
-          <li>Designed a hybrid ML pipeline combining unsupervised clustering with cluster-specific classifiers to segment applicants into <b>3 risk tiers</b>.</li>
-          <li>Achieved <b>~88% classification accuracy</b>, improving decision accuracy over baseline by ~12%.</li>
-          <li>Implemented full ML lifecycle: preprocessing, feature engineering, training, and evaluation.</li>
-        </ul>
-        <p align="center"><a href="https://github.com/batman-hassaan">🔗 View Repository</a></p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🫀 HeartGuard AI</h3>
-        <p align="center"><em>Heart Disease Prediction System</em></p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        </p>
-        <ul>
-          <li>Developed a supervised ML model to predict heart disease risk with <b>~85% accuracy</b> on 1,000+ patient records.</li>
-          <li>Built a full-stack application (FastAPI backend, React frontend) to serve real-time risk predictions.</li>
-          <li>Applied feature selection and preprocessing techniques that improved model performance by <b>~8%</b>.</li>
-        </ul>
-        <p align="center"><a href="https://github.com/batman-hassaan">🔗 View Repository</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏦 Loan Approval System</h3>
+      <p align="center"><em>Hybrid Machine Learning Model</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+        <img src="https://img.shields.io/badge/XGBoost-229922?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
+      </p>
+      <ul>
+        <li>Designed a hybrid ML pipeline combining unsupervised clustering with cluster-specific classifiers to segment applicants into <b>3 risk tiers</b>.</li>
+        <li>Achieved <b>~88% classification accuracy</b>, improving decision accuracy over baseline by ~12%.</li>
+        <li>Implemented full ML lifecycle: preprocessing, feature engineering, training, and evaluation.</li>
+      </ul>
+      <p align="center"><a href="https://github.com/batman-hassaan">🔗 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🫀 HeartGuard AI</h3>
+      <p align="center"><em>Heart Disease Prediction System</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      </p>
+      <ul>
+        <li>Developed a supervised ML model to predict heart disease risk with <b>~85% accuracy</b> on 1,000+ patient records.</li>
+        <li>Built a full-stack application (FastAPI backend, React frontend) to serve real-time risk predictions.</li>
+        <li>Applied feature selection and preprocessing techniques that improved model performance by <b>~8%</b>.</li>
+      </ul>
+      <p align="center"><a href="https://github.com/batman-hassaan">🔗 View Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
-<!-- STATS SECTION -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batman-hassaan&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Hassaan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batman-hassaan&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=batman-hassaan&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Hassaan's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batman-hassaan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
   
   <br/><br/>
   
-  <img src="https://streak-stats.demolab.com?user=batman-hassaan&theme=merko&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batman-hassaan&theme=merko&hide_border=true&bg_color=0D1117&color=B980F0&line=B980F0&point=FFFFFF" alt="Activity Graph" width="98%"/>
+  <img src="https://streak-stats.demolab.com?user=batman-hassaan&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batman-hassaan&theme=github-compact&hide_border=true&bg_color=0D1117&color=B980F0&line=B980F0&point=FFFFFF" alt="Activity Graph" width="48%"/>
   
   <br/><br/>
   
@@ -163,7 +165,6 @@
 
 <hr/>
 
-<!-- SNAKE ANIMATION -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
@@ -172,7 +173,6 @@
 
 <hr/>
 
-<!-- EDUCATION & CERTIFICATIONS -->
 <h2 align="center">🎓 Education &amp; Certifications</h2>
 
 <div align="center">
@@ -183,10 +183,10 @@
         <p align="center">
           <b>BS Computer Science (Data Science)</b><br/>
           NED University of Engineering &amp; Technology<br/>
-          <sub>(2023 – Expected 2027)</sub><br/><br/>
+          <sub>2023 – Expected 2027</sub><br/><br/>
           <b>Pre-Engineering</b><br/>
           Adamjee Government Science College<br/>
-          <sub>(2021 – 2023)</sub>
+          <sub>2021 – 2023</sub>
         </p>
       </td>
       <td width="50%" valign="top">
@@ -204,9 +204,16 @@
 
 <hr/>
 
-<!-- FOOTER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=batman-hassaan&label=Profile%20Views&color=B980F0&style=for-the-badge" alt="Profile Views"/>
+  
   <br/><br/>
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+  
+  <blockquote>
+    <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+  </blockquote>
+  
+  <br/>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" width="80%"/>
 </div>
