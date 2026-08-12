@@ -86,7 +86,7 @@ I'm a **Data Science undergraduate** at **NED University** passionate about buil
 ### 🏦 Loan Approval System
 *Hybrid Machine Learning Model* · [View Repository](https://github.com/batman-hassaan)
 - Designed a hybrid ML pipeline combining unsupervised clustering with cluster-specific classifiers to segment applicants into **3 risk tiers**.
-- Achieved **~88% classification accuracy**, improving decision accuracy over baseline by ~12%.
+- Achieved **~88% classification accuracy**, improving decision accuracy over baseline by ~12%
 
 ### 🫀 HeartGuard AI
 *Heart Disease Prediction System* · [View Repository](https://github.com/batman-hassaan)
